@@ -45,4 +45,8 @@ By segmenting customers, businesses can:
 - Increase campaign ROI through targeted offers.  
 - Improve customer retention with loyalty programs.  
 - Reactivate dormant customers with personalized outreach.  
-- Strengthen digital engagement by focusing on online-first segments.  
+- Strengthen digital engagement by focusing on online-first segments.
+
+## Customer Segmentation Output 
+- <img width="689" height="547" alt="image" src="https://github.com/user-attachments/assets/cec00ddc-acc0-4b82-aec8-93a27b618d42" />
+
